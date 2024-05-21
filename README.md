@@ -1,93 +1,75 @@
-<h2 align="left">Hi 👋! My name is Tarsh Swarnkar and I'm a CSE 2nd Year Undergraduate from IIIT Kota</h2>
+# Hi there, I'm Tarsh Swarnkar! 👋
 
-###
+![Profile Views](https://komarev.com/ghpvc/?username=T1A0R3S2H&color=blue)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=T1A0R3S2H&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=T1A0R3S2H&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+## 🚀 About Me
+
+- 🌱 I’m a **Full-Stack Web Developer** and a **2nd Year CSE Undergraduate** from IIIT Kota.
+- 📫 Reach me: **[tarsh.swarnkar@gmail.com]**
+
+## 🛠️ Languages and Tools
+
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-000?&logo=Tailwind%20CSS)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Mongoose](https://img.shields.io/badge/-Mongoose-000?&logo=Node.js)
+![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon%20AWS)
+![Google Cloud Platform](https://img.shields.io/badge/-Google%20Cloud%20Platform-000?&logo=Google%20Cloud)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=visual-studio-code)
+![Anaconda](https://img.shields.io/badge/-Anaconda-000?&logo=Anaconda)
+
+
+## 📈 GitHub Stats
+<div>
+  <img src="https://streak-stats.demolab.com?user=T1A0R3S2H&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=T1A0R3S2H&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+## 🌟 Top Repositories
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif"  />
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=T1A0R3S2H&repo=Password-Manager-MERN&theme=radical)](https://github.com/T1A0R3S2H/Password-Manager-MERN)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=T1A0R3S2H&repo=Aye-IIIT&theme=radical)](https://github.com/T1A0R3S2H/Aye-IIIT)
 
-###
+## 🔗 Connect with me
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="30" alt="opera logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/tarsh-swarnkar-103bb8208/?originalSubdomain=in)
+[![Discord](https://img.shields.io/badge/-Discord-000?&logo=discord&logoColor=5865F2)](https://discord.com/users/tarsh09)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/tarshswarnkar/)
+[![Personal Website](https://img.shields.io/badge/-Personal%20Website-000?&logo=About.me)](https://www.tarshswarnkar.tech)
 
-###
+## 🏆 Achievements and Extracurriculars
 
-<div align="left">
-  <a href="https://www.instagram.com/tarshswarnkar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="tarsh09" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="tarsh.swarnkar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/tarsh-swarnkar-103bb8208/?originalSubdomain=in" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
+- Selected as the Regionalists for the Google Solution Challenge 2024 and attended the Regionalists Bootcamp at Gurgaon.
+- Elected as the Event Manager of the Technical Club of IIIT Kota.
+- Handled the CSE Batch of 140+ students as the Class Representative (2023-24).
+- State Level Badminton Player.
 
 
+## 🗂️ Projects
 
-###
+Here are a few projects I've been working on recently:
+
+1. **[PassMan](https://github.com/T1A0R3S2H/Password-Manager-MERN)** - **PassMan** allows users to manage their passwords. Users can add new passwords, view existing passwords, update them if needed, and delete them when necessary. The application ensures the security of user data.
+2. **[changeRuk](https://github.com/T1A0R3S2H/changeRuk)** - **changeRuk** is a Chrome extension designed to enhance your YouTube viewing experience. It automatically pauses YouTube videos when you switch to a different browser tab and resumes playback as soon as you return. This ensures that you never miss a moment of your video content, providing a seamless and intuitive user experience.
+
+## 💬 Quote of the Day
+
+"Stay hungry, stay foolish." - Steve Jobs
+
+##
+
+**Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just chat!**
