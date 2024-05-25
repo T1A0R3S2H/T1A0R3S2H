@@ -19,7 +19,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Mongoose](https://img.shields.io/badge/-Mongoose-000?&logo=Node.js)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
