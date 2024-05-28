@@ -60,7 +60,7 @@
 - Elected as the Event Manager of the Technical Club of IIIT Kota.
 - Handled the CSE Batch of 140+ students as the Class Representative (2023-24).
 - State Level Badminton Player.
-
+- Level 5 Contributor on Google Maps: 3 lakhs+ views on over 500+ contributions.
 
 ## 🗂️ Projects
 
