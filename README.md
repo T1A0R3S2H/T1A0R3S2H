@@ -66,8 +66,9 @@
 
 Here are a few projects I've been working on recently:
 
-1. **[PassMan](https://github.com/T1A0R3S2H/Password-Manager-MERN)** - **PassMan** allows users to manage their passwords. Users can add new passwords, view existing passwords, update them if needed, and delete them when necessary. The application ensures the security of user data.
-2. **[changeRuk](https://github.com/T1A0R3S2H/changeRuk)** - **changeRuk** is a Chrome extension designed to enhance your YouTube viewing experience. It automatically pauses YouTube videos when you switch to a different browser tab and resumes playback as soon as you return. This ensures that you never miss a moment of your video content, providing a seamless and intuitive user experience.
+1. **[SahYog](https://github.com/T1A0R3S2H/SahYog)** - **SahYog** is a Next.js platform that allows individual users to receive financial support directly from their community.
+2. **[PassMan](https://github.com/T1A0R3S2H/Password-Manager-MERN)** - **PassMan** allows users to manage their passwords. Users can add new passwords, view existing passwords, update them if needed, and delete them when necessary. The application ensures the security of user data.
+3. **[changeRuk](https://github.com/T1A0R3S2H/changeRuk)** - **changeRuk** is a Chrome extension designed to enhance your YouTube viewing experience. It automatically pauses YouTube videos when you switch to a different browser tab and resumes playback as soon as you return. This ensures that you never miss a moment of your video content, providing a seamless and intuitive user experience.
 
 ## 💬 Quote of the Day
 
