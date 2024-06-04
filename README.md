@@ -43,9 +43,8 @@
 </div>
 
 ## 🌟 Top Repositories
-
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=T1A0R3S2H&repo=Password-Manager-MERN&theme=radical)](https://github.com/T1A0R3S2H/Password-Manager-MERN)
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=T1A0R3S2H&repo=Aye-IIIT&theme=radical)](https://github.com/T1A0R3S2H/Aye-IIIT)
+[![SahYog](https://github-readme-stats.vercel.app/api/pin/?username=T1A0R3S2H&repo=SahYog&theme=radical)](https://github.com/T1A0R3S2H/SahYog)
+[![PassMan](https://github-readme-stats.vercel.app/api/pin/?username=T1A0R3S2H&repo=Password-Manager-MERN&theme=radical)](https://github.com/T1A0R3S2H/Password-Manager-MERN)
 
 ## 🔗 Connect with me
 
