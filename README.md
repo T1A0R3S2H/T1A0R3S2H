@@ -1,7 +1,7 @@
 ## ![Profile Views](https://komarev.com/ghpvc/?username=T1A0R3S2H&color=blue)
 
 # Hi there, I'm Tarsh Swarnkar! 👋
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=800&color=F7EC00&center=false&vCenter=false&random=false&width=501&lines=Full+Stack+Web+Developer;AI%2FML+Enthusiast;State+Level+Shuttler)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=2000&pause=800&color=FFD700&center=false&vCenter=false&random=false&width=501&height=40&size=28&lines=Full+Stack+Web+Developer;AI%2FML+Enthusiast;State+Level+Shuttler)](https://git.io/typing-svg)
 
 
 
