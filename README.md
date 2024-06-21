@@ -8,7 +8,6 @@
 
 ## 🚀 About Me
 
-
 - 🌱 I’m a **Full-Stack Web Developer** and a **2nd Year CSE Undergraduate** from IIIT Kota.
 - 📫 Reach me: **[tarsh.swarnkar@gmail.com]**
 
