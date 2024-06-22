@@ -55,6 +55,7 @@
 
 ## 🏆 Achievements and Extracurriculars
 
+- Selected as a Research Intern at DRDO.
 - Selected as the Regionalists for the Google Solution Challenge 2024 and attended the Regionalists Bootcamp at Gurgaon.
 - Elected as the Event Manager of the Technical Society of IIIT Kota.
 - Handled the CSE Batch of 140+ students as the Class Representative (2023-24).
