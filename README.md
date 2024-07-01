@@ -55,12 +55,13 @@
 
 ## 🏆 Achievements and Extracurriculars
 
-- Selected as a Research Intern at DRDO.
-- Selected as the Regionalists for the Google Solution Challenge 2024 and attended the Regionalists Bootcamp at Gurgaon.
-- Elected as the Event Manager of the Technical Society of IIIT Kota.
+- Selected for the **Amazon ML Summer School'24**
+- Selected as a **Research Intern** at **DRDO**.
+- Selected as the **Regionalists** for the Google Solution Challenge 2024 and attended the Regionalists Bootcamp at Gurgaon.
+- Elected as the **Event Manager** of the Technical Society of IIIT Kota.
 - Handled the CSE Batch of 140+ students as the Class Representative (2023-24).
-- State Level Badminton Player.
-- Level 5 Contributor on Google Maps: 3 lakhs+ views on over 500+ contributions.
+- **State Level** Badminton Player.
+- Level 5 Contributor on Google Maps: **3.5 lakhs+** views on over 500+ contributions.
 
 ## 🗂️ Projects
 
