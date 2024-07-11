@@ -8,6 +8,7 @@
 
 ## 🚀 About Me
 
+- 👾 Currently practising **Gen AI**.
 - 🦥 Selected for **Amazon ML Summer School'24**.
 - 💫 Currently a **Research Intern** at **DRDO**.
 - 🌱 I’m a **Full-Stack Web Developer** and a **2nd Year CSE Undergraduate** from IIIT Kota.
