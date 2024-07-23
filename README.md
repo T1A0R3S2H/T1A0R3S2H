@@ -7,6 +7,7 @@
 
 
 ## 🚀 About Me
+![image](https://github.com/user-attachments/assets/ee939a89-60cc-427e-a41d-893b48565147)
 
 - 👾 Currently practising **Gen AI**.
 - 🦥 Selected for **Amazon ML Summer School'24**.
