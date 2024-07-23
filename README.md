@@ -1,13 +1,14 @@
 ## ![Profile Views](https://komarev.com/ghpvc/?username=T1A0R3S2H&color=blue)
 
 # Hi there, I'm Tarsh Swarnkar! 👋
+![Currently learning AI-ML](https://github.com/user-attachments/assets/29228095-e801-4a80-88d7-0c0e3f7e1d6d)
+
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&duration=2000&pause=800&color=FFD700&center=false&vCenter=false&random=false&width=501&height=40&size=28&lines=Full+Stack+Web+Developer;AI%2FML+Enthusiast;State+Level+Shuttler)](https://git.io/typing-svg)
 
 
 
 
 ## 🚀 About Me
-![image](https://github.com/user-attachments/assets/ee939a89-60cc-427e-a41d-893b48565147)
 
 - 👾 Currently practising **Gen AI**.
 - 🦥 Selected for **Amazon ML Summer School'24**.
