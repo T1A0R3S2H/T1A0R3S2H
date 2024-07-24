@@ -8,7 +8,7 @@
 
 
 ## 🚀 About Me
-![Currently learning AI-ML (1)](https://github.com/user-attachments/assets/ab23b679-729a-463e-81b7-9169abe3cea4)
+![Currently learning AI-ML](https://github.com/user-attachments/assets/3b27eff4-0aec-49d4-8b93-6242b59fface)
 
 - 👾 Currently practising **Gen AI**.
 - 🦥 Selected for **Amazon ML Summer School'24**.
