@@ -10,7 +10,7 @@
 ## 🚀 About Me
 ![Currently learning AI-ML](https://github.com/user-attachments/assets/3b27eff4-0aec-49d4-8b93-6242b59fface)
 
-- 👾 Currently practising **Gen AI**.
+- 👾 Currently learning **Gen AI**.
 - 🦥 Selected for **Amazon ML Summer School'24**.
 - 💫 Currently a **Research Intern** at **DRDO**.
 - 🌱 I’m a **Full-Stack Web Developer** and a **2nd Year CSE Undergraduate** from IIIT Kota.
@@ -66,7 +66,7 @@
 - Elected as the **Event Manager** of the **Technical Society of IIIT Kota**.
 - Handled the CSE Batch of 140+ students as the Class Representative (2023-24).
 - **State Level** Badminton Player.
-- Level 5 Contributor on Google Maps: **3.5 lakhs+** views on over 500+ contributions.
+- Level 5 Contributor on Google Maps: **3.75 lakhs+** views on over 500+ contributions.
 
 ## 🗂️ Projects
 
