@@ -13,7 +13,7 @@
 
 
 
-- 👾 Currently learning **Gen AI**.
+- 👾 Seeking **SDE and related Internships**.
 - 🦥 Selected for **Amazon ML Summer School'24**.
 - 💫 Former **Research Intern** at **DRDO**.
 - 🌱 I’m a **Full-Stack Web Developer** and a **Pre-final Year CSE Undergraduate** from IIIT Kota.
