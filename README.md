@@ -28,7 +28,6 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C%2B%2B)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
