@@ -74,8 +74,9 @@
 
 Here are a few projects I've been working on recently:
 
-1. **[SahYog](https://github.com/T1A0R3S2H/SahYog)** - **SahYog** is a Next.js platform that allows individual users to receive financial support directly from their community.
-2. **[PassMan](https://github.com/T1A0R3S2H/Password-Manager-MERN)** - **PassMan** allows users to manage their passwords. Users can add new passwords, view existing passwords, update them if needed, and delete them when necessary. The application ensures the security of user data.
+1. **[AI Career Hub](https://github.com/Arjun-v1-ai/AI-Career-Hub)** - **AI Career Hub** is a comprehensive career guidance platform with AI-powered features including video proctoring, resume analysis, and career counseling.
+2. **[SahYog](https://github.com/T1A0R3S2H/SahYog)** - **SahYog** is a Next.js platform that allows individual users to receive financial support directly from their community.
+3. **[PassMan](https://github.com/T1A0R3S2H/Password-Manager-MERN)** - **PassMan** allows users to manage their passwords. Users can add new passwords, view existing passwords, update them if needed, and delete them when necessary. The application ensures the security of user data.
 
 And here are some **unique** ones:
 1. **[Basic Image Processing GUI](https://github.com/T1A0R3S2H/Basic-Image-Processing-GUI)** - **Basic Image Processing GUI** allows users to perform various image processing operations, such as blurring, unblurring, transparency meter, erosion, dilation, and more. It also provides the ability to display histograms for the loaded image and apply filters like summation and derivative.
