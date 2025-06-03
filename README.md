@@ -11,9 +11,8 @@
 
 ![GitHub banner (1)](https://github.com/user-attachments/assets/d4e247c0-6f4e-439a-82e1-c24d5155c119)
 
-
+- 👾 **Interning...**
 - ✅ **Amdocs GenAI Graduate Hackathon** winner.
-- 👾 Seeking **SDE and related Internships**.
 - 🦥 Selected for **Amazon ML Summer School'24**.
 - 💫 Former **Research Intern** at **DRDO**.
 - 🌱 I’m a **Full-Stack Web Developer** and a **Pre-final Year CSE Undergraduate** from IIIT Kota.
